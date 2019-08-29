@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar color="new">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/orders"></ion-back-button>
+    </ion-buttons>
+    <ion-title color="light">{{ loadedOrder.orderTitle }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <h1 text-center>{{ loadedOrder.orderTitle }}</h1>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-list *ngFor="let pr of loadedOrder.orderProductList">
+          <ion-label slot="start">{{ pr.ProductName }}</ion-label>
+          <ion-label slot="end">{{ pr.ProductQuantity }}</ion-label>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

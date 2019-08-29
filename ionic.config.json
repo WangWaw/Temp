@@ -1,5 +1,7 @@
 {
   "name": "Temp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
