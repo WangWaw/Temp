@@ -1,9 +1,33 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>audioNote</ion-title>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Audio Note</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <ion-button color="orange" expand="block">
+          <ion-icon slot="start" name="add"></ion-icon>Recorder
+        </ion-button>
+      </ion-col>
+      <ion-col>
+        <ion-button color="orange" expand="block">
+          <ion-icon slot="start" name="add"></ion-icon>Transcription
+        </ion-button>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-searchbar></ion-searchbar>
+    </ion-row>
+    <ion-row>
+      <ion-list>
 
+      </ion-list>
+    </ion-row>
+  </ion-grid>
 </ion-content>

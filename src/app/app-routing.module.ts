@@ -1,13 +1,14 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
+
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
-  { 
-    path: 'home', 
-    children:[
+  {
+    path: 'home',
+    children: [
       {
-        path:'',
+        path: '',
         loadChildren: './home/home.module#HomePageModule'
       },
       {
@@ -21,10 +22,17 @@ const routes: Routes = [
             path: ':orderId',
             loadChildren: './orders/order-detail/order-detail.module#OrderDetailPageModule'
           }]
+      },
+      {
+        path: 'audio-note',
+        loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
+      },
+      { 
+        path: 'camera-note', 
+        loadChildren: './camera-note/camera-note.module#CameraNotePageModule' 
       }
     ]
-  },
-  { path: 'audio-note', loadChildren: './audio-note/audio-note.module#AudioNotePageModule' }
+  }
 ];
 
 @NgModule({
