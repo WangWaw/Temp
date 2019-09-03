@@ -25,11 +25,20 @@ const routes: Routes = [
       },
       {
         path: 'audio-note',
-        loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
-      },
-      { 
-        path: 'camera-note', 
-        loadChildren: './camera-note/camera-note.module#CameraNotePageModule' 
+        children: [
+          {
+            path:'',
+            loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
+          }, 
+          {
+            path:'recorder',
+            loadChildren: './audio-note/recorder/recorder.module#RecorderPageModule'
+
+          }]
+      },  
+      {
+        path: 'camera-note',
+        loadChildren: './camera-note/camera-note.module#CameraNotePageModule'
       }
     ]
   }
