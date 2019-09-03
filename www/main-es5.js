@@ -8,6 +8,18 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
+	"./audio-note/audio-note.module": [
+		"./src/app/audio-note/audio-note.module.ts",
+		"audio-note-audio-note-module"
+	],
+	"./camera-note/camera-note.module": [
+		"./src/app/camera-note/camera-note.module.ts",
+		"camera-note-camera-note-module"
+	],
+	"./home/home.module": [
+		"./src/app/home/home.module.ts",
+		"home-home-module"
+	],
 	"./orders/order-detail/order-detail.module": [
 		"./src/app/orders/order-detail/order-detail.module.ts",
 		"common",
@@ -491,17 +503,33 @@ __webpack_require__.r(__webpack_exports__);
 
 var routes = [
     { path: '', redirectTo: 'home', pathMatch: 'full' },
-    { path: 'home', loadChildren: function () { return __webpack_require__.e(/*! import() | home-home-module */ "home-home-module").then(__webpack_require__.bind(null, /*! ./home/home.module */ "./src/app/home/home.module.ts")).then(function (m) { return m.HomePageModule; }); } },
     {
-        path: 'orders',
+        path: 'home',
         children: [
             {
                 path: '',
-                loadChildren: './orders/orders.module#OrdersPageModule'
+                loadChildren: './home/home.module#HomePageModule'
             },
             {
-                path: ':orderId',
-                loadChildren: './orders/order-detail/order-detail.module#OrderDetailPageModule'
+                path: 'orders',
+                children: [
+                    {
+                        path: '',
+                        loadChildren: './orders/orders.module#OrdersPageModule'
+                    },
+                    {
+                        path: ':orderId',
+                        loadChildren: './orders/order-detail/order-detail.module#OrderDetailPageModule'
+                    }
+                ]
+            },
+            {
+                path: 'audio-note',
+                loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
+            },
+            {
+                path: 'camera-note',
+                loadChildren: './camera-note/camera-note.module#CameraNotePageModule'
             }
         ]
     }
@@ -610,6 +638,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ionic_native_status_bar_ngx__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @ionic-native/status-bar/ngx */ "./node_modules/@ionic-native/status-bar/ngx/index.js");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
+/* harmony import */ var _ionic_storage__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @ionic/storage */ "./node_modules/@ionic/storage/fesm5/ionic-storage.js");
+/* harmony import */ var _ionic_native_camera_ngx__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @ionic-native/camera/ngx */ "./node_modules/@ionic-native/camera/ngx/index.js");
+
+
 
 
 
@@ -626,10 +658,11 @@ var AppModule = /** @class */ (function () {
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
             declarations: [_app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"]],
             entryComponents: [],
-            imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_2__["BrowserModule"], _ionic_angular__WEBPACK_IMPORTED_MODULE_4__["IonicModule"].forRoot(), _app_routing_module__WEBPACK_IMPORTED_MODULE_8__["AppRoutingModule"]],
+            imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_2__["BrowserModule"], _ionic_angular__WEBPACK_IMPORTED_MODULE_4__["IonicModule"].forRoot(), _app_routing_module__WEBPACK_IMPORTED_MODULE_8__["AppRoutingModule"], _ionic_storage__WEBPACK_IMPORTED_MODULE_9__["IonicStorageModule"].forRoot()],
             providers: [
                 _ionic_native_status_bar_ngx__WEBPACK_IMPORTED_MODULE_6__["StatusBar"],
                 _ionic_native_splash_screen_ngx__WEBPACK_IMPORTED_MODULE_5__["SplashScreen"],
+                _ionic_native_camera_ngx__WEBPACK_IMPORTED_MODULE_10__["Camera"],
                 { provide: _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouteReuseStrategy"], useClass: _ionic_angular__WEBPACK_IMPORTED_MODULE_4__["IonicRouteStrategy"] }
             ],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"]]
