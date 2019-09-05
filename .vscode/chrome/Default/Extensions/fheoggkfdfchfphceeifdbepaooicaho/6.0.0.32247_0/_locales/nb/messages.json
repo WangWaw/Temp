@@ -1,0 +1,827 @@
+{
+   "res_100": {
+      "message": "nb_no"
+   },
+   "res_1000": {
+      "message": "http://www.siteadvisor.com/restricted.html?domain=%s&originalURL=%s"
+   },
+   "res_1001": {
+      "message": "http://www.siteadvisor.com/phishing.html?domain=%s&originalURL=%s"
+   },
+   "res_101": {
+      "message": "nb-no"
+   },
+   "res_102": {
+      "message": "nb-no"
+   },
+   "res_11010": {
+      "message": "Sikkert søk"
+   },
+   "res_1102": {
+      "message": "http://www.siteadvisor.com/support/index.html"
+   },
+   "res_1107": {
+      "message": "https://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1110": {
+      "message": "http://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1116": {
+      "message": "http://www.ebates.com/mcafee/index.htm"
+   },
+   "res_113": {
+      "message": "Vis områderapport"
+   },
+   "res_114": {
+      "message": "Alternativer…"
+   },
+   "res_120": {
+      "message": "Hjelp"
+   },
+   "res_12001": {
+      "message": "Kunst / kultur / kulturarv"
+   },
+   "res_12002": {
+      "message": "Alkohol"
+   },
+   "res_12003": {
+      "message": "Anonymiseringsverktøy"
+   },
+   "res_12004": {
+      "message": "Anonymiseringsverktøy"
+   },
+   "res_12005": {
+      "message": "Forretninger"
+   },
+   "res_12006": {
+      "message": "Chat"
+   },
+   "res_12007": {
+      "message": "Offentlig informasjon"
+   },
+   "res_12008": {
+      "message": "Potensielle kriminelle aktiviteter"
+   },
+   "res_12009": {
+      "message": "Narkotika"
+   },
+   "res_12010": {
+      "message": "Utdanning/referansemateriale"
+   },
+   "res_12011": {
+      "message": "Underholdning"
+   },
+   "res_12012": {
+      "message": "Ekstrem"
+   },
+   "res_12013": {
+      "message": "Finans/bankvirksomhet"
+   },
+   "res_12014": {
+      "message": "Gambling"
+   },
+   "res_12015": {
+      "message": "Spill"
+   },
+   "res_12016": {
+      "message": "Myndigheter/militæret"
+   },
+   "res_12017": {
+      "message": "Potensiell hacking / datakriminalitet"
+   },
+   "res_12018": {
+      "message": "Helse"
+   },
+   "res_12019": {
+      "message": "Humor/tegneserier"
+   },
+   "res_12020": {
+      "message": "Diskriminerende innhold"
+   },
+   "res_12021": {
+      "message": "Direktemeldinger"
+   },
+   "res_12022": {
+      "message": "Aksjehandel"
+   },
+   "res_12023": {
+      "message": "Internett-radio / -TV"
+   },
+   "res_12024": {
+      "message": "Jobbsøk"
+   },
+   "res_12025": {
+      "message": "Informasjonssikkerhet"
+   },
+   "res_12026": {
+      "message": "Dating / sosiale nettverk"
+   },
+   "res_12027": {
+      "message": "Mobiltelefon"
+   },
+   "res_12028": {
+      "message": "Medienedlasting"
+   },
+   "res_12029": {
+      "message": "Skadelige områder"
+   },
+   "res_12031": {
+      "message": "Nakenhet"
+   },
+   "res_12032": {
+      "message": "Idealistiske organisasjoner / menneskerettighetsorganisasjoner / ikke-statlige organisasjoner"
+   },
+   "res_12033": {
+      "message": "Generelle nyheter"
+   },
+   "res_12034": {
+      "message": "Online-handel"
+   },
+   "res_12035": {
+      "message": "Utfordrende påkledning"
+   },
+   "res_12036": {
+      "message": "P2P/fildeling"
+   },
+   "res_12037": {
+      "message": "Politikk/meninger"
+   },
+   "res_12038": {
+      "message": "Personlige sider"
+   },
+   "res_12039": {
+      "message": "Portalområder"
+   },
+   "res_12040": {
+      "message": "Ekstern tilgang"
+   },
+   "res_12041": {
+      "message": "Religion/ideologi"
+   },
+   "res_12042": {
+      "message": "Ressursdeling"
+   },
+   "res_12043": {
+      "message": "Søkemotorer"
+   },
+   "res_12044": {
+      "message": "Sport"
+   },
+   "res_12045": {
+      "message": "Direkteavspilte medier"
+   },
+   "res_12046": {
+      "message": "Shareware/gratisprogramvare"
+   },
+   "res_12047": {
+      "message": "Pornografi"
+   },
+   "res_12048": {
+      "message": "Spionprogrammer / reklameprogrammer / tasteloggere"
+   },
+   "res_12049": {
+      "message": "Tobakk"
+   },
+   "res_12050": {
+      "message": "Reise"
+   },
+   "res_12051": {
+      "message": "Vold"
+   },
+   "res_12052": {
+      "message": "Webannonser"
+   },
+   "res_12053": {
+      "message": "Våpen"
+   },
+   "res_12054": {
+      "message": "Nettpost"
+   },
+   "res_12055": {
+      "message": "Webtelefon"
+   },
+   "res_12056": {
+      "message": "Auksjoner/rubrikkannonser"
+   },
+   "res_12057": {
+      "message": "Fora/oppslagstavler"
+   },
+   "res_12058": {
+      "message": "Blasfemi"
+   },
+   "res_12059": {
+      "message": "Skolefuskinformasjon"
+   },
+   "res_12060": {
+      "message": "Materiale med seksuelt innhold"
+   },
+   "res_12061": {
+      "message": "Grusomt innhold"
+   },
+   "res_12062": {
+      "message": "Visuell søkemotor"
+   },
+   "res_12063": {
+      "message": "Teknologifora/forretningsfora"
+   },
+   "res_12064": {
+      "message": "Gamblingrelatert"
+   },
+   "res_12065": {
+      "message": "Meldinger"
+   },
+   "res_12066": {
+      "message": "Voldelige spill / tegneserievold"
+   },
+   "res_12067": {
+      "message": "Phishing"
+   },
+   "res_12068": {
+      "message": "Lagring i personlig nettverk"
+   },
+   "res_12069": {
+      "message": "Spam-URLer"
+   },
+   "res_12070": {
+      "message": "Interaktive webprogrammer"
+   },
+   "res_12071": {
+      "message": "Mote/skjønnhet"
+   },
+   "res_12072": {
+      "message": "Programvare/maskinvare"
+   },
+   "res_12073": {
+      "message": "Potensiell ulovlig programvare"
+   },
+   "res_12074": {
+      "message": "Innholdsserver"
+   },
+   "res_12075": {
+      "message": "Internett-tjenester"
+   },
+   "res_12076": {
+      "message": "Mediedeling"
+   },
+   "res_12077": {
+      "message": "Utilsiktet nakenhet"
+   },
+   "res_12078": {
+      "message": "Markedsføring/salgsfremming"
+   },
+   "res_12079": {
+      "message": "Parkert domene"
+   },
+   "res_12080": {
+      "message": "Apotek"
+   },
+   "res_12081": {
+      "message": "Restauranter"
+   },
+   "res_12082": {
+      "message": "Eiendom"
+   },
+   "res_12083": {
+      "message": "Fritidsaktiviteter/hobbyer"
+   },
+   "res_12084": {
+      "message": "Blogger/wikier"
+   },
+   "res_12085": {
+      "message": "Digitale postkort"
+   },
+   "res_12086": {
+      "message": "Historisk revisjonisme"
+   },
+   "res_12087": {
+      "message": "Teknisk informasjon"
+   },
+   "res_12088": {
+      "message": "Dating / personlige annonser"
+   },
+   "res_12089": {
+      "message": "Motorkjøretøy"
+   },
+   "res_12090": {
+      "message": "Profesjonelle nettverk"
+   },
+   "res_12091": {
+      "message": "Sosiale nettverk"
+   },
+   "res_12092": {
+      "message": "Tekstoversettere"
+   },
+   "res_12093": {
+      "message": "Webmøter"
+   },
+   "res_12094": {
+      "message": "For barn"
+   },
+   "res_12095": {
+      "message": "Historikk"
+   },
+   "res_12096": {
+      "message": "Moderert"
+   },
+   "res_12097": {
+      "message": "Kun tekst/tale"
+   },
+   "res_12098": {
+      "message": "Nettleserutnyttelse"
+   },
+   "res_12099": {
+      "message": "Forbrukerbeskyttelse"
+   },
+   "res_121": {
+      "message": "Om"
+   },
+   "res_12100": {
+      "message": "Kontroversielle meninger"
+   },
+   "res_12101": {
+      "message": "Ulovlig i Storbritannia"
+   },
+   "res_12102": {
+      "message": "Viktige globale regioner"
+   },
+   "res_12103": {
+      "message": "Nedlastinger av skadelig innhold"
+   },
+   "res_12104": {
+      "message": "Potensielle uønskede programmer"
+   },
+   "res_12105": {
+      "message": "Residensielle IP-adresser"
+   },
+   "res_122": {
+      "message": "Vis Penger tilbake for dette webområdet"
+   },
+   "res_123": {
+      "message": "Gå til belønninger for sikker shopping"
+   },
+   "res_125": {
+      "message": "Oppgrader til [%SITEADVISORPLUS%]"
+   },
+   "res_127": {
+      "message": "Registrer deg nå"
+   },
+   "res_129": {
+      "message": "Dokk fra Yahoo! Verktøylinje"
+   },
+   "res_133": {
+      "message": "Synkroniser abonnement"
+   },
+   "res_140": {
+      "message": "Oppgrader til programvaren [%SITEADVISORPLUS%]"
+   },
+   "res_141": {
+      "message": "Kjøp nå"
+   },
+   "res_14100": {
+      "message": "Forretninger, arbeid og finans"
+   },
+   "res_14101": {
+      "message": "Alkohol, tobakk og narkotika"
+   },
+   "res_14102": {
+      "message": "Underholdning/kultur"
+   },
+   "res_14103": {
+      "message": "Gaming"
+   },
+   "res_14104": {
+      "message": "Informasjonsteknologi"
+   },
+   "res_14105": {
+      "message": "Søk, redaksjon og kommunikasjon"
+   },
+   "res_14106": {
+      "message": "Livsstil"
+   },
+   "res_14107": {
+      "message": "Voksent publikum"
+   },
+   "res_14108": {
+      "message": "Voksent publikum"
+   },
+   "res_14109": {
+      "message": "Shopping og e-handel"
+   },
+   "res_14110": {
+      "message": "Risikabelt"
+   },
+   "res_14111": {
+      "message": "Nyheter og visninger"
+   },
+   "res_166": {
+      "message": "Les områderapport"
+   },
+   "res_170": {
+      "message": "Versjon"
+   },
+   "res_171": {
+      "message": "Språk"
+   },
+   "res_172": {
+      "message": "Build"
+   },
+   "res_173": {
+      "message": "Siste oppdatering"
+   },
+   "res_20008": {
+      "message": "Denne koblingen er ikke vurdert"
+   },
+   "res_20009": {
+      "message": "Denne koblingen er mistenkelig"
+   },
+   "res_20010": {
+      "message": "Denne koblingen er trygg"
+   },
+   "res_20017": {
+      "message": "[%COMPANY%] [%SITEADVISOR%]-advarsel"
+   },
+   "res_20018": {
+      "message": "Denne e-postmeldingen inneholder potensielt usikre koblinger til disse webområdene:"
+   },
+   "res_20022": {
+      "message": "mer informasjon …"
+   },
+   "res_20028": {
+      "message": "Denne koblingen ble automatisk blokkert av dine innstillinger for [%COMPANY%] [%SITEADVISOR%] sikkert søk"
+   },
+   "res_20029": {
+      "message": "Områdeinnhold:"
+   },
+   "res_20031": {
+      "message": "Testes hver dag"
+   },
+   "res_20033": {
+      "message": "Denne koblingen er farlig"
+   },
+   "res_20034": {
+      "message": "Pengene tilbake kan være tilgjengelig på dette området til McAfee SECURE. Besøk webområdet for mer informasjon."
+   },
+   "res_20040": {
+      "message": "Vi har testet dette webområdet og mener det er for risikabelt å besøke det."
+   },
+   "res_20041": {
+      "message": "Vi har testet denne siden og blokkert innhold som kommer fra potensielt farlige eller mistenkelige webområder. Tillat bare dette innholdet hvis du er sikker på at det kommer fra sikre webområder."
+   },
+   "res_20042": {
+      "message": "Vis alt blokkert innhold"
+   },
+   "res_20043": {
+      "message": "Advarsel: farlig område"
+   },
+   "res_207": {
+      "message": "McAfee"
+   },
+   "res_208": {
+      "message": "SiteAdvisor"
+   },
+   "res_209": {
+      "message": "LIVE"
+   },
+   "res_212": {
+      "message": "SiteAdvisor LIVE"
+   },
+   "res_213": {
+      "message": "SiteAdvisor\u003Csup style='font-size:90%'>&reg;\u003C/sup>&nbsp;LIVE"
+   },
+   "res_30006": {
+      "message": "McAfee WebAdvisor…"
+   },
+   "res_30007": {
+      "message": "Vis områderapport…"
+   },
+   "res_30009": {
+      "message": "McAfee WebAdvisor Live…"
+   },
+   "res_30010": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_30011": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_3302": {
+      "message": "Du laster ned fra et webområde som kan inneholde potensielt uønskede programmer. [%COMPANY%] har oppdaget potensielle farlige nedlastinger fra dette webområdet i tidligere tester."
+   },
+   "res_3305": {
+      "message": "[%COMPANY%] oppdaget at filen du er i ferd med å laste ned, kan inneholde virus, spionprogrammer eller andre potensielt uønskede programmer. Dette skadelige innholdet kan ødelegge datamaskinen din og stjele personopplysningene dine."
+   },
+   "res_3306": {
+      "message": "[%COMPANY%] har oppdaget at nedlastingen kan inneholde virus, spionprogrammer og andre potensielt uønskede programmer. Disse programmene kan skade harddisken eller stjele personopplysningene dine."
+   },
+   "res_3320": {
+      "message": "Den nedlastingen er farlig!"
+   },
+   "res_3321": {
+      "message": "Potensielt uønsket nedlasting oppdaget!"
+   },
+   "res_3322": {
+      "message": "Advarsel!"
+   },
+   "res_4000": {
+      "message": "Er du sikker på at du vil dokke fra Yahoo! Verktøylinje? Du kan ikke angre denne endringen."
+   },
+   "res_4001": {
+      "message": "Bekreftelse: Du har valgt å låse opp (separat) verktøylinjen. Du må starte nettleseren på nytt for at denne endringen skal implementeres."
+   },
+   "res_4100": {
+      "message": "Nettsøk"
+   },
+   "res_4101": {
+      "message": "Nettsøk"
+   },
+   "res_4102": {
+      "message": "Sikkert søk"
+   },
+   "res_ABOUT": {
+      "message": "Om"
+   },
+   "res_ABOUT_DESCRIPTION": {
+      "message": "{0} gjør det enklere å ta bedre avgjørelser om hva du gjør på Internett."
+   },
+   "res_AVOID_DANGEROUS_LINKS": {
+      "message": "Unngå farlige koblinger"
+   },
+   "res_CHROME": {
+      "message": "Chrome"
+   },
+   "res_COMPANY_NAME": {
+      "message": "McAfee"
+   },
+   "res_CREATE_SAFER_PASSWORDS": {
+      "message": "Opprett sikrere passord"
+   },
+   "res_CRYPTO_ALLOW_DESC": {
+      "message": "Når vi blokkerer kryptojacking, kan du velge å tillate det. Vi anbefaler det ikke, men du har muligheten til å gjøre det hvis du vil støtte webområder som tjener penger via kryptojacking."
+   },
+   "res_CRYPTO_ALLOW_TITLE": {
+      "message": "Vil du tillate kryptojacking?"
+   },
+   "res_CRYPTO_BANNER_ALLOW_BUTTON": {
+      "message": "Tillat kryptojacking på dette webområdet"
+   },
+   "res_CRYPTO_BANNER_LEARN_MORE": {
+      "message": "Mer informasjon."
+   },
+   "res_CRYPTO_BANNER_MESSAGE": {
+      "message": "Vi har blokkert kryptojacking på dette webområdet. Datamaskinens ressurser er sikre, og du kan fortsette med surfingen."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE1": {
+      "message": "McAfee og McAfee-logoen er varemerker eller registrerte varemerker som tilhører McAfee, LLC eller deres tilknyttede selskaper i USA og andre land."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE2": {
+      "message": "Andre navn og varemerker kan tilhøre andre. Copyright ©2019 McAfee, LLC"
+   },
+   "res_CRYPTO_HEADER_SUBTITLE": {
+      "message": "Vi bidrar til å forhindre at kryptojackere stjeler strømmen og ressursene til datamaskinen din."
+   },
+   "res_CRYPTO_HEADER_TITLE": {
+      "message": "Blokkering av kryptojacking er på"
+   },
+   "res_CRYPTO_OWN_DESC": {
+      "message": "Du trenger ikke å ha kryptovaluta for å utsettes for kryptojacking. Kryptojackere får tilgang til datamaskinens ressurser, ikke den eventuelle kryptovalutaen."
+   },
+   "res_CRYPTO_OWN_TITLE": {
+      "message": "Har du din egen kryptovaluta som kan utsettes for kryptojacking?"
+   },
+   "res_CRYPTO_PROTECT_DESC": {
+      "message": "Pass på at du har McAfee WebAdviso-utvidelsen på, slik at Blokkering av kryptojacking kan beskytte deg mot kryptojackere. Vi varsler deg når vi blokkerer forsøk på kryptojacking."
+   },
+   "res_CRYPTO_PROTECT_TITLE": {
+      "message": "Hvordan kan du beskytte deg?"
+   },
+   "res_CRYPTO_SIGNS_DESC1": {
+      "message": "Treg surfing"
+   },
+   "res_CRYPTO_SIGNS_DESC2": {
+      "message": "Batteriet tømmes for fort"
+   },
+   "res_CRYPTO_SIGNS_DESC3": {
+      "message": "Bråkete vifte"
+   },
+   "res_CRYPTO_SIGNS_DESC4": {
+      "message": "Økning av elektrisitetsforbruket"
+   },
+   "res_CRYPTO_SIGNS_TITLE": {
+      "message": "Hva er tegn på at du har blitt utsatt for kryptojacking?"
+   },
+   "res_CRYPTO_TITLE": {
+      "message": "McAfee blokkering av kryptojacking"
+   },
+   "res_CRYPTO_WHATIS_POINT1": {
+      "message": "Kryptojackere (hackere) får tilgang til datamaskinen din gjennom webområdene når du surfer på nettet."
+   },
+   "res_CRYPTO_WHATIS_POINT2": {
+      "message": "De kaprer datamaskinens strøm (CPU og minne) for å hjelpe dem med å utføre komplekse oppgaver."
+   },
+   "res_CRYPTO_WHATIS_POINT3": {
+      "message": "De tjener kryptovaluta, dvs. nettbaserte penger."
+   },
+   "res_CRYPTO_WHATIS_TITLE": {
+      "message": "Hva er kryptojacking"
+   },
+   "res_DONE": {
+      "message": "Ferdig"
+   },
+   "res_DONT_TRUST": {
+      "message": "Ikke klarer"
+   },
+   "res_DOWNLOADS_BLOCKED": {
+      "message": "{1} usikre nedlastinger blokkert"
+   },
+   "res_DOWNLOADS_SCANNED": {
+      "message": "{1} nedlastinger skannet"
+   },
+   "res_DOWNLOAD_CONFIDENTLY": {
+      "message": "Last ned uten bekymringer"
+   },
+   "res_FIREFOX": {
+      "message": "Firefox"
+   },
+   "res_GET_HELP_NOW": {
+      "message": "Få hjelp nå"
+   },
+   "res_GET_TECHNICAL_SUPPORT": {
+      "message": "Få hjelp og teknisk brukerstøtte"
+   },
+   "res_HELP": {
+      "message": "Hjelp"
+   },
+   "res_HELP_EMAIL_US": {
+      "message": "Send oss en e-postmelding til"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_CONTENT": {
+      "message": "Det kan skje de beste. De er her for å hjelpe deg. {0}"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_HEADER": {
+      "message": "HJELP! Jeg trenger teknisk støtte"
+   },
+   "res_HELP_FAQ_SECTION_ONE_CONTENT": {
+      "message": "{0} gjør det enklere å ta bedre avgjørelser om hva du gjør på Internett."
+   },
+   "res_HELP_FAQ_SECTION_ONE_HEADER": {
+      "message": "Hva er {0}?"
+   },
+   "res_HELP_FAQ_SECTION_THREE_HEADER": {
+      "message": "Hvordan vet jeg hvilken versjon av {0} jeg har?"
+   },
+   "res_HELP_FAQ_SECTION_TWO_CONTENT": {
+      "message": "Eller del denne koblingen: {0}"
+   },
+   "res_HELP_FAQ_SECTION_TWO_HEADER": {
+      "message": "Hvordan kan jeg dele {0} med andre?"
+   },
+   "res_HELP_FAQ_TITLE": {
+      "message": "Vanlige spørsmål"
+   },
+   "res_HELP_SUPPORT_TITLE": {
+      "message": "Støtte"
+   },
+   "res_IE": {
+      "message": "Internet Explorer"
+   },
+   "res_LICENSE_AGREEMENT_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx?culture=en"
+   },
+   "res_OK": {
+      "message": "Ok"
+   },
+   "res_PAGES_BLOCKED": {
+      "message": "{1} farlige sider blokkert"
+   },
+   "res_PAGES_SCANNED": {
+      "message": "{1} sider skannet"
+   },
+   "res_POPUP_BACK": {
+      "message": "Tilbake"
+   },
+   "res_POPUP_CLEAR": {
+      "message": "Tøm listen"
+   },
+   "res_POPUP_DONE_SO_FAR": {
+      "message": "Hittil har vi gjort følgende:"
+   },
+   "res_POPUP_DONT_WARN_DESCRIPTION": {
+      "message": "Vil du ikke at vi skal advare deg om et bestemt nettsted? Legg det til her."
+   },
+   "res_POPUP_ENABLE_WEB_BOOST": {
+      "message": "Aktiver Web Boost"
+   },
+   "res_POPUP_ENTER_WEB_ADDRESS": {
+      "message": "Skriv inn en webadresse …"
+   },
+   "res_POPUP_GET_HELP": {
+      "message": "Få hjelp"
+   },
+   "res_POPUP_GET_HELP_URL": {
+      "message": "https://service.mcafee.com/webcenter/portal/cp/home"
+   },
+   "res_POPUP_GET_WEB_BOOST": {
+      "message": "Få tak i Web Boost"
+   },
+   "res_POPUP_ITEMS_BLOCKED": {
+      "message": "Usikre elementer blokkert"
+   },
+   "res_POPUP_PAGES_BLOCKED": {
+      "message": "Farlige sider blokkert"
+   },
+   "res_POPUP_PAGES_SCANNED": {
+      "message": "Sider skannet"
+   },
+   "res_POPUP_PURPOSE_DESCRIPTION": {
+      "message": "Vi er her for å sørge for at du er sikker på nettet."
+   },
+   "res_POPUP_START_FRESH": {
+      "message": "Vil du starte på nytt?"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS": {
+      "message": "Vilkår og betingelser"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx"
+   },
+   "res_POPUP_VIEW_SITE_REPORT": {
+      "message": "Vis områderapport"
+   },
+   "res_PRIVACY_NOTICE": {
+      "message": "Personvernmerknad"
+   },
+   "res_PRIVACY_URL": {
+      "message": "http://www.mcafee.com/common/privacy/consumer/norwegian/"
+   },
+   "res_PRODUCT_NAME": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_PRODUCT_NAME_LIVE": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_PRODUCT_NAME_TRADEMARKED": {
+      "message": "McAfee® WebAdvisor"
+   },
+   "res_READ_PRIVACY_NOTICE": {
+      "message": "Les personvernmerknaden"
+   },
+   "res_RESET": {
+      "message": "Tilbakestill"
+   },
+   "res_SETTINGS": {
+      "message": "Innstillinger"
+   },
+   "res_SETTINGS_DEFAULT_TRUSTED_TEXT": {
+      "message": "Lim eller skriv inn URL-adressen din"
+   },
+   "res_SETTINGS_MANAGE_TRUSTED": {
+      "message": "Administrer klarerte områder"
+   },
+   "res_SETTINGS_RESET_CAPTION": {
+      "message": "Tilbakestill {0}"
+   },
+   "res_SETTINGS_RESET_DESCRIPTION": {
+      "message": "Har du ignorert et varsel og ønsker å se det igjen? Ingen grunn til bekymring. Etter tilbakestillingen vil alle varslene vises i nettleseren igjen, akkurat som første gang du så dem."
+   },
+   "res_SETTINGS_RESET_HEADER": {
+      "message": "Tilbakestill innstillinger"
+   },
+   "res_SETTINGS_SS_CAPTION": {
+      "message": "Surf sikkert på nettet"
+   },
+   "res_SETTINGS_SS_HEADER": {
+      "message": "Søkeresultater"
+   },
+   "res_SETTINGS_SS_OPTION_ALL": {
+      "message": "Fortell om et søkeresultat er trygt, i enhver søkemotor"
+   },
+   "res_SETTINGS_SS_OPTION_NONE": {
+      "message": "Ikke fortell meg om søkeresultatene"
+   },
+   "res_SETTINGS_SS_OPTION_SS": {
+      "message": "Fortell om et søkeresultat er sikkert, men bare i Sikkert søk"
+   },
+   "res_SETTINGS_TRUSTED_SITES": {
+      "message": "Områder du har klarert"
+   },
+   "res_STAT_HEADER": {
+      "message": "Her er noen av tingene vi har gjort så langt:"
+   },
+   "res_TAKE_PRIVACY_SERIOUSLY": {
+      "message": "{0} tar personvernet ditt på alvor. Les {1}."
+   },
+   "res_TRUST_SITE": {
+      "message": "Klarer område"
+   },
+   "res_VERSION": {
+      "message": "Versjon"
+   },
+   "res_WEBADVISOR": {
+      "message": "WebAdvisor"
+   },
+   "res_YOUR_PROTECTED": {
+      "message": "Vi har beskyttet passordet ditt og reddet deg fra identitetstyveri"
+   },
+   "res_menuid1": {
+      "message": "Test"
+   }
+}

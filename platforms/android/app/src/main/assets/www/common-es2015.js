@@ -798,6 +798,105 @@ OrdersService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 
 
+/***/ }),
+
+/***/ "./src/app/services/record.service.ts":
+/*!********************************************!*\
+  !*** ./src/app/services/record.service.ts ***!
+  \********************************************/
+/*! exports provided: RecordService */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RecordService", function() { return RecordService; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _ionic_angular__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @ionic/angular */ "./node_modules/@ionic/angular/dist/fesm5.js");
+/* harmony import */ var _ionic_native_media_ngx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @ionic-native/media/ngx */ "./node_modules/@ionic-native/media/ngx/index.js");
+/* harmony import */ var _ionic_native_file_ngx__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @ionic-native/file/ngx */ "./node_modules/@ionic-native/file/ngx/index.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+
+
+let RecordService = class RecordService {
+    constructor(media, file, platform, router) {
+        this.media = media;
+        this.file = file;
+        this.platform = platform;
+        this.router = router;
+        this.audioList = [];
+        this.recording = false;
+    }
+    // ionViewWillEnter() {
+    //   this.getAudioList();
+    // }
+    getAudioList() {
+        if (localStorage.getItem("audiolist")) {
+            this.audioList = JSON.parse(localStorage.getItem("audiolist"));
+            console.log(this.audioList);
+        }
+    }
+    startRecord() {
+        if (this.platform.is('ios')) {
+            this.fileName = 'record' + new Date().getDate() + new Date().getMonth() + new Date().getFullYear() + new Date().getHours() + new Date().getMinutes() + new Date().getSeconds() + '.m4a';
+            this.filePath = this.file.documentsDirectory.replace(/file:\/\//g, '') + this.fileName;
+            this.audio = this.media.create(this.filePath);
+        }
+        else if (this.platform.is('android')) {
+            this.fileName = 'record' + new Date().getDate() + new Date().getMonth() + new Date().getFullYear() + new Date().getHours() + new Date().getMinutes() + new Date().getSeconds() + '.3gp';
+            this.filePath = this.file.externalDataDirectory.replace(/file:\/\//g, '') + this.fileName;
+            this.audio = this.media.create(this.filePath);
+        }
+        this.audio.startRecord();
+        this.recording = true;
+    }
+    stopRecord() {
+        this.audio.stopRecord();
+        this.fileDur = this.audio.getDuration();
+        let data = { filename: this.fileName, fileDuration: this.fileDur };
+        this.audioList.push(data);
+        localStorage.setItem("audiolist", JSON.stringify(this.audioList));
+        this.recording = false;
+        this.getAudioList();
+    }
+    playAudio(file, idx) {
+        if (this.platform.is('ios')) {
+            this.filePath = this.file.documentsDirectory.replace(/file:\/\//g, '') + file;
+            this.audio = this.media.create(this.filePath);
+        }
+        else if (this.platform.is('android')) {
+            this.filePath = this.file.externalDataDirectory.replace(/file:\/\//g, '') + file;
+            this.audio = this.media.create(this.filePath);
+        }
+        this.audio.play();
+        this.audio.setVolume(0.8);
+    }
+    stopAudio() {
+        this.audio.stop();
+    }
+};
+RecordService.ctorParameters = () => [
+    { type: _ionic_native_media_ngx__WEBPACK_IMPORTED_MODULE_3__["Media"] },
+    { type: _ionic_native_file_ngx__WEBPACK_IMPORTED_MODULE_4__["File"] },
+    { type: _ionic_angular__WEBPACK_IMPORTED_MODULE_2__["Platform"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_5__["Router"] }
+];
+RecordService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+        providedIn: 'root'
+    }),
+    tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_ionic_native_media_ngx__WEBPACK_IMPORTED_MODULE_3__["Media"],
+        _ionic_native_file_ngx__WEBPACK_IMPORTED_MODULE_4__["File"],
+        _ionic_angular__WEBPACK_IMPORTED_MODULE_2__["Platform"],
+        _angular_router__WEBPACK_IMPORTED_MODULE_5__["Router"]])
+], RecordService);
+
+
+
 /***/ })
 
 }]);

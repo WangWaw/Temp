@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-buttons slot=\"start\">\n      <ion-back-button defaultHref=\"/\"></ion-back-button>\n    </ion-buttons>\n    <ion-title>Audio Note</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  <ion-grid>\n    <ion-row>\n      <ion-col>\n        <ion-button color=\"orange\" expand=\"block\">\n          <ion-icon slot=\"start\" name=\"add\"></ion-icon>Recorder\n        </ion-button>\n      </ion-col>\n      <ion-col>\n        <ion-button color=\"orange\" expand=\"block\">\n          <ion-icon slot=\"start\" name=\"add\"></ion-icon>Transcription\n        </ion-button>\n      </ion-col>\n    </ion-row>\n    <ion-row>\n      <ion-searchbar></ion-searchbar>\n    </ion-row>\n    <ion-row>\n      <ion-list>\n\n      </ion-list>\n    </ion-row>\n  </ion-grid>\n</ion-content>"
+module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-buttons slot=\"start\">\n      <ion-back-button defaultHref=\"/\"></ion-back-button>\n    </ion-buttons>\n    <ion-title>Audio Note</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  <ion-grid>\n    <ion-row>\n      <ion-col>\n        <ion-button color=\"orange\" expand=\"block\" [routerLink]=\"['./recorder']\">\n          <ion-icon slot=\"start\" name=\"add\"></ion-icon>Recorder\n        </ion-button>\n      </ion-col>\n      <ion-col>\n        <ion-button color=\"orange\" expand=\"block\">\n          <ion-icon slot=\"start\" name=\"add\"></ion-icon>Transcription\n        </ion-button>\n      </ion-col>\n    </ion-row>\n    <ion-row>\n      <ion-searchbar></ion-searchbar>\n    </ion-row>\n    <ion-row>\n      <ion-list >\n        <ion-item *ngFor=\"let audio of recordService.audioList; index as i;\" expand=\"block\">\n          <p>{{audio.filename}}</p>\n          <button slot=\"end\" ion-button clear item-end large (click)=\"recordService.playAudio(audio.filename, i)\">\n            <ion-icon name=\"play\"></ion-icon>\n          </button>\n        </ion-item>\n      </ion-list>\n    </ion-row>\n  </ion-grid>\n</ion-content>"
 
 /***/ }),
 
@@ -85,20 +85,30 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AudioNotePage", function() { return AudioNotePage; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var src_app_services_record_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/services/record.service */ "./src/app/services/record.service.ts");
+
 
 
 var AudioNotePage = /** @class */ (function () {
-    function AudioNotePage() {
+    function AudioNotePage(recordService) {
+        this.recordService = recordService;
     }
-    AudioNotePage.prototype.ngOnInit = function () {
+    // ionViewWillEnter() {
+    //   this.getAudioList();
+    // }
+    AudioNotePage.prototype.ngoninit = function () {
+        this.recordService.getAudioList();
     };
+    AudioNotePage.ctorParameters = function () { return [
+        { type: src_app_services_record_service__WEBPACK_IMPORTED_MODULE_2__["RecordService"] }
+    ]; };
     AudioNotePage = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
             selector: 'app-audio-note',
             template: __webpack_require__(/*! raw-loader!./audio-note.page.html */ "./node_modules/raw-loader/index.js!./src/app/audio-note/audio-note.page.html"),
             styles: [__webpack_require__(/*! ./audio-note.page.scss */ "./src/app/audio-note/audio-note.page.scss")]
         }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [src_app_services_record_service__WEBPACK_IMPORTED_MODULE_2__["RecordService"]])
     ], AudioNotePage);
     return AudioNotePage;
 }());

@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-app>\n  <ion-header translucent>\n    <ion-toolbar>\n      <ion-buttons slot=\"start\">\n        <ion-back-button defaultHref=\"/\"></ion-back-button>\n      </ion-buttons>\n      <ion-title>Order List</ion-title>\n      <ion-buttons slot=\"end\">\n        <ion-button>\n          <ion-icon slot=\"icon-only\" name=\"add\"></ion-icon>\n        </ion-button>\n      </ion-buttons>\n    </ion-toolbar>\n  </ion-header>\n\n  <ion-content>\n    <ion-list>\n      <ion-item *ngFor=\"let order of orders\" [routerLink]=\"['./',order.orderId]\">\n        <ion-label>\n          {{ order.orderTitle }}\n        </ion-label>\n      </ion-item>\n    </ion-list>\n  </ion-content>\n</ion-app>"
+module.exports = "<ion-app>\n  <ion-header translucent>\n    <ion-toolbar>\n      <ion-buttons slot=\"start\">\n        <ion-back-button defaultHref=\"/\"></ion-back-button>\n      </ion-buttons>\n      <ion-title>Order Management</ion-title>\n      <ion-buttons slot=\"end\">\n        <ion-button>\n          <ion-icon slot=\"icon-only\" name=\"add\"></ion-icon>\n        </ion-button>\n      </ion-buttons>\n    </ion-toolbar>\n  </ion-header>\n\n  <ion-content>\n    <ion-list>\n      <ion-item *ngFor=\"let order of orders\" [routerLink]=\"['./',order.orderId]\">\n        <ion-label>\n          {{ order.orderTitle }}\n        </ion-label>\n      </ion-item>\n    </ion-list>\n  </ion-content>\n</ion-app>"
 
 /***/ }),
 

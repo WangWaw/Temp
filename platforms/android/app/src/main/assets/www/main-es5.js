@@ -10,7 +10,13 @@
 var map = {
 	"./audio-note/audio-note.module": [
 		"./src/app/audio-note/audio-note.module.ts",
+		"common",
 		"audio-note-audio-note-module"
+	],
+	"./audio-note/recorder/recorder.module": [
+		"./src/app/audio-note/recorder/recorder.module.ts",
+		"common",
+		"audio-note-recorder-recorder-module"
 	],
 	"./camera-note/camera-note.module": [
 		"./src/app/camera-note/camera-note.module.ts",
@@ -525,7 +531,16 @@ var routes = [
             },
             {
                 path: 'audio-note',
-                loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
+                children: [
+                    {
+                        path: '',
+                        loadChildren: './audio-note/audio-note.module#AudioNotePageModule'
+                    },
+                    {
+                        path: 'recorder',
+                        loadChildren: './audio-note/recorder/recorder.module#RecorderPageModule'
+                    }
+                ]
             },
             {
                 path: 'camera-note',
@@ -640,6 +655,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
 /* harmony import */ var _ionic_storage__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @ionic/storage */ "./node_modules/@ionic/storage/fesm5/ionic-storage.js");
 /* harmony import */ var _ionic_native_camera_ngx__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @ionic-native/camera/ngx */ "./node_modules/@ionic-native/camera/ngx/index.js");
+/* harmony import */ var _ionic_native_media_ngx__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @ionic-native/media/ngx */ "./node_modules/@ionic-native/media/ngx/index.js");
+/* harmony import */ var _ionic_native_file_ngx__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @ionic-native/file/ngx */ "./node_modules/@ionic-native/file/ngx/index.js");
+
+
 
 
 
@@ -663,6 +682,8 @@ var AppModule = /** @class */ (function () {
                 _ionic_native_status_bar_ngx__WEBPACK_IMPORTED_MODULE_6__["StatusBar"],
                 _ionic_native_splash_screen_ngx__WEBPACK_IMPORTED_MODULE_5__["SplashScreen"],
                 _ionic_native_camera_ngx__WEBPACK_IMPORTED_MODULE_10__["Camera"],
+                _ionic_native_media_ngx__WEBPACK_IMPORTED_MODULE_11__["Media"],
+                _ionic_native_file_ngx__WEBPACK_IMPORTED_MODULE_12__["File"],
                 { provide: _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouteReuseStrategy"], useClass: _ionic_angular__WEBPACK_IMPORTED_MODULE_4__["IonicRouteStrategy"] }
             ],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"]]

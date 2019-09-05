@@ -1,0 +1,827 @@
+{
+   "res_100": {
+      "message": "sr-latn-cs"
+   },
+   "res_1000": {
+      "message": "http://www.siteadvisor.com/restricted.html?domain=%s&originalURL=%s"
+   },
+   "res_1001": {
+      "message": "http://www.siteadvisor.com/phishing.html?domain=%s&originalURL=%s"
+   },
+   "res_101": {
+      "message": "sr-latn-cs"
+   },
+   "res_102": {
+      "message": "sr-latn-cs"
+   },
+   "res_11010": {
+      "message": "Bezbedna pretraga"
+   },
+   "res_1102": {
+      "message": "http://www.siteadvisor.com/support/index.html"
+   },
+   "res_1107": {
+      "message": "https://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1110": {
+      "message": "http://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1116": {
+      "message": "http://www.ebates.com/mcafee/index.htm"
+   },
+   "res_113": {
+      "message": "Pogledati izveštaj o lokaciji"
+   },
+   "res_114": {
+      "message": "Opcije..."
+   },
+   "res_120": {
+      "message": "Pomoć"
+   },
+   "res_12001": {
+      "message": "Umetnost/Kultura/Nasleđe"
+   },
+   "res_12002": {
+      "message": "Alkohol"
+   },
+   "res_12003": {
+      "message": "Alati za skrivanje identiteta"
+   },
+   "res_12004": {
+      "message": "Uslužni programi za sakrivanje identiteta"
+   },
+   "res_12005": {
+      "message": "Posao"
+   },
+   "res_12006": {
+      "message": "Ćaskanje"
+   },
+   "res_12007": {
+      "message": "Javne informacije"
+   },
+   "res_12008": {
+      "message": "Potencijalno kriminalne aktivnosti"
+   },
+   "res_12009": {
+      "message": "Narkotici"
+   },
+   "res_12010": {
+      "message": "Obrazovanje/Reference"
+   },
+   "res_12011": {
+      "message": "Zabava"
+   },
+   "res_12012": {
+      "message": "Ekstremno"
+   },
+   "res_12013": {
+      "message": "Finnansije/Bankarstvo"
+   },
+   "res_12014": {
+      "message": "Kockanje"
+   },
+   "res_12015": {
+      "message": "Igrice"
+   },
+   "res_12016": {
+      "message": "Vlada/Vojska"
+   },
+   "res_12017": {
+      "message": "Potencijalno hakovanje/Računarski kriminal"
+   },
+   "res_12018": {
+      "message": "Zdravlje"
+   },
+   "res_12019": {
+      "message": "Humor/Stripovi"
+   },
+   "res_12020": {
+      "message": "Diskriminacija"
+   },
+   "res_12021": {
+      "message": "Instant razmena poruka"
+   },
+   "res_12022": {
+      "message": "Trgovina deonicama"
+   },
+   "res_12023": {
+      "message": "Internet Radio/TV"
+   },
+   "res_12024": {
+      "message": "Traženje posla"
+   },
+   "res_12025": {
+      "message": "Bezbednost informacija"
+   },
+   "res_12026": {
+      "message": "Upoznavanje/Društveno umrežavanje"
+   },
+   "res_12027": {
+      "message": "Mobilni telefon"
+   },
+   "res_12028": {
+      "message": "Preuzimanje medijuma"
+   },
+   "res_12029": {
+      "message": "Zlonamerne lokacije"
+   },
+   "res_12031": {
+      "message": "Nagost"
+   },
+   "res_12032": {
+      "message": "Neprofitno/Advokatura/NVO"
+   },
+   "res_12033": {
+      "message": "Opšte vesti"
+   },
+   "res_12034": {
+      "message": "Kupovina na mreži"
+   },
+   "res_12035": {
+      "message": "Provokativna odeća"
+   },
+   "res_12036": {
+      "message": "P2P/Deljenje datoteka"
+   },
+   "res_12037": {
+      "message": "Politika/Mišljenje"
+   },
+   "res_12038": {
+      "message": "Lične stranice"
+   },
+   "res_12039": {
+      "message": "Portali"
+   },
+   "res_12040": {
+      "message": "Daljinski pristup"
+   },
+   "res_12041": {
+      "message": "Religija/Ideologija"
+   },
+   "res_12042": {
+      "message": "Deljenje resursa"
+   },
+   "res_12043": {
+      "message": "Pretraživači"
+   },
+   "res_12044": {
+      "message": "Sport"
+   },
+   "res_12045": {
+      "message": "Strimovani medijum"
+   },
+   "res_12046": {
+      "message": "Deljeni softver/Besplatan softver"
+   },
+   "res_12047": {
+      "message": "Pornografija"
+   },
+   "res_12048": {
+      "message": "Špijunski softver/Adver/Keyloggers"
+   },
+   "res_12049": {
+      "message": "Duvan"
+   },
+   "res_12050": {
+      "message": "Putovanja"
+   },
+   "res_12051": {
+      "message": "Nasilje"
+   },
+   "res_12052": {
+      "message": "Veb oglasi"
+   },
+   "res_12053": {
+      "message": "Oružje"
+   },
+   "res_12054": {
+      "message": "Veb pošta"
+   },
+   "res_12055": {
+      "message": "Veb telefon"
+   },
+   "res_12056": {
+      "message": "Aukcije/Oglasnik"
+   },
+   "res_12057": {
+      "message": "Forum/Oglasne table"
+   },
+   "res_12058": {
+      "message": "Vulgarnost"
+   },
+   "res_12059": {
+      "message": "Informacije o varanju u školi"
+   },
+   "res_12060": {
+      "message": "Seksualni materijal"
+   },
+   "res_12061": {
+      "message": "Strašan sadržaj"
+   },
+   "res_12062": {
+      "message": "Vizuelni pretraživač"
+   },
+   "res_12063": {
+      "message": "Tehnika/Poslovni forumi"
+   },
+   "res_12064": {
+      "message": "Povezano sa kockanjem"
+   },
+   "res_12065": {
+      "message": "Razmena poruka"
+   },
+   "res_12066": {
+      "message": "Nasilje u Igricama/Crtanim filmovima"
+   },
+   "res_12067": {
+      "message": "Phishing"
+   },
+   "res_12068": {
+      "message": "Lično skladište na mreži"
+   },
+   "res_12069": {
+      "message": "Spam URL adrese"
+   },
+   "res_12070": {
+      "message": "Interaktivne veb aplikacije"
+   },
+   "res_12071": {
+      "message": "Moda/Lepota"
+   },
+   "res_12072": {
+      "message": "Softver/hardver"
+   },
+   "res_12073": {
+      "message": "Potencijalno nelegalan softver"
+   },
+   "res_12074": {
+      "message": "Server sa sadržajem"
+   },
+   "res_12075": {
+      "message": "Internet servisi"
+   },
+   "res_12076": {
+      "message": "Deljenje medijuma"
+   },
+   "res_12077": {
+      "message": "Slučajna nagost"
+   },
+   "res_12078": {
+      "message": "Marketing/Prodaja"
+   },
+   "res_12079": {
+      "message": "Parkirani domen"
+   },
+   "res_12080": {
+      "message": "Farmacija"
+   },
+   "res_12081": {
+      "message": "Restorani"
+   },
+   "res_12082": {
+      "message": "Nekretnine"
+   },
+   "res_12083": {
+      "message": "Rekreacija/Hobi"
+   },
+   "res_12084": {
+      "message": "Blogovi/Wiki"
+   },
+   "res_12085": {
+      "message": "Digitalne razglednice"
+   },
+   "res_12086": {
+      "message": "Revizija istorije"
+   },
+   "res_12087": {
+      "message": "Tehničke informacije"
+   },
+   "res_12088": {
+      "message": "Upoznavanje/Lične poruke"
+   },
+   "res_12089": {
+      "message": "Motorna vozila"
+   },
+   "res_12090": {
+      "message": "Profesionalno umrežavanje"
+   },
+   "res_12091": {
+      "message": "Društveno umrežavanje"
+   },
+   "res_12092": {
+      "message": "Prevodioci teksta"
+   },
+   "res_12093": {
+      "message": "Veb sastanci"
+   },
+   "res_12094": {
+      "message": "Za decu"
+   },
+   "res_12095": {
+      "message": "Istorija"
+   },
+   "res_12096": {
+      "message": "Kontrolisano"
+   },
+   "res_12097": {
+      "message": "Tekst/Samo govor"
+   },
+   "res_12098": {
+      "message": "Iskorišćenje pregledača"
+   },
+   "res_12099": {
+      "message": "Zaštita potrošača"
+   },
+   "res_121": {
+      "message": "Osnovni podaci"
+   },
+   "res_12100": {
+      "message": "Kontroverzna mišljenja"
+   },
+   "res_12101": {
+      "message": "Nelegalno u UK"
+   },
+   "res_12102": {
+      "message": "Glavni svetski regioni"
+   },
+   "res_12103": {
+      "message": "Štetna preuzimanja"
+   },
+   "res_12104": {
+      "message": "PUP-ovi"
+   },
+   "res_12105": {
+      "message": "Kućne IP adrese"
+   },
+   "res_122": {
+      "message": "Pokaži povraćaj novca za ovu lokaciju"
+   },
+   "res_123": {
+      "message": "Idi na bezbednu nagradnu kupovinu"
+   },
+   "res_125": {
+      "message": "Nadogradite na [%SITEADVISORPLUS%]"
+   },
+   "res_127": {
+      "message": "Registrujte se odmah"
+   },
+   "res_129": {
+      "message": "Odvoji se od Yahoo-a! Traka sa alatkama"
+   },
+   "res_133": {
+      "message": "Sinhronizuj pretplatu"
+   },
+   "res_140": {
+      "message": "Nadogradite na [%SITEADVISORPLUS%] sofver"
+   },
+   "res_141": {
+      "message": "Kupite odmah"
+   },
+   "res_14100": {
+      "message": "Posao, rad i finansijske usluge"
+   },
+   "res_14101": {
+      "message": "Alkohol, duvan i narkotici"
+   },
+   "res_14102": {
+      "message": "Zabava/Kultura"
+   },
+   "res_14103": {
+      "message": "Igranje"
+   },
+   "res_14104": {
+      "message": "Informaciona tehnologija"
+   },
+   "res_14105": {
+      "message": "Pretraga, uređivanje i komunikacija"
+   },
+   "res_14106": {
+      "message": "Način života"
+   },
+   "res_14107": {
+      "message": "Za odrasle"
+   },
+   "res_14108": {
+      "message": "Za odrasle"
+   },
+   "res_14109": {
+      "message": "Kupovina i E-trgovina"
+   },
+   "res_14110": {
+      "message": "Rizično"
+   },
+   "res_14111": {
+      "message": "Vesti i pogledi"
+   },
+   "res_166": {
+      "message": "Pročitajte izveštaj o lokaciji"
+   },
+   "res_170": {
+      "message": "Verzija"
+   },
+   "res_171": {
+      "message": "Jezik"
+   },
+   "res_172": {
+      "message": "Verzija"
+   },
+   "res_173": {
+      "message": "Poslednje ažuriranje"
+   },
+   "res_20008": {
+      "message": "Ova veza nije ocenjena"
+   },
+   "res_20009": {
+      "message": "Ova veza je sumnjiva"
+   },
+   "res_20010": {
+      "message": "Ova veza je bezbedna"
+   },
+   "res_20017": {
+      "message": "Upozorenje ekstenzija [%COMPANY%] [%SITEADVISOR%]"
+   },
+   "res_20018": {
+      "message": "Ova e-pošta sadrži potencijalno nebezbedne veze do sledećih veb lokacija:"
+   },
+   "res_20022": {
+      "message": "više informacija..."
+   },
+   "res_20028": {
+      "message": "Ova veza je automatski blokirana od strane Podešavanja bezbedne pretrage unutar [%COMPANY%] [%SITEADVISOR%]"
+   },
+   "res_20029": {
+      "message": "Sadržaj lokacije:"
+   },
+   "res_20031": {
+      "message": "Dnevno testiranje"
+   },
+   "res_20033": {
+      "message": "Ova veza je opasna"
+   },
+   "res_20034": {
+      "message": "Na ovoj McAfee BEZBEDNOJ lokaciji možda je moguć povraćaj novca. Za detalje posetite lokaciju."
+   },
+   "res_20040": {
+      "message": "Testirali smo ovu lokaciju i utvrdili da je rizična za posetu."
+   },
+   "res_20041": {
+      "message": "Testirali smo ovu stranicu i blokirali sadržaj koji dolazi sa potencijalno opasnih ili sumnjivih lokacija. Dozvolite ovaj sadržaj samo ako ste sigurni da dolazi sa bezbednih lokacija."
+   },
+   "res_20042": {
+      "message": "Pogledajte sav blokirani sadržaj"
+   },
+   "res_20043": {
+      "message": "Upozorenje: Opasna lokacija"
+   },
+   "res_207": {
+      "message": "McAfee"
+   },
+   "res_208": {
+      "message": "SiteAdvisor"
+   },
+   "res_209": {
+      "message": "LIVE"
+   },
+   "res_212": {
+      "message": "SiteAdvisor LIVE"
+   },
+   "res_213": {
+      "message": "SiteAdvisor\u003Csup style='font-size:90%'>&reg;\u003C/sup>&nbsp;LIVE"
+   },
+   "res_30006": {
+      "message": "McAfee WebAdvisor..."
+   },
+   "res_30007": {
+      "message": "Pogledati izveštaj o lokaciji..."
+   },
+   "res_30009": {
+      "message": "McAfee WebAdvisor Live..."
+   },
+   "res_30010": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_30011": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_3302": {
+      "message": "Preuzimate sa veb lokacije koja možda sadrži potencijalno nepoželjne programe. U prošlim testiranjima ekstenzija [%COMPANY%] je detektovala potencijalno opasna preuzimanja sa ove lokacije."
+   },
+   "res_3305": {
+      "message": "Ekstenzija [%COMPANY%] je pronašla da datoteka koju ćete preuzeti možda sadrži viruse, špijunski softver ili druge potencijalno nepoželjne programe. Ove gadne stvari mogu poremetitii vaš računar i ukrasti vaše lične informacije."
+   },
+   "res_3306": {
+      "message": "Ekstenzija [%COMPANY%] je detektovala da vaše preuzimanje možda sadrži viruse, špijunski softver i druge potencijalno nepoželjne programe. Ovi programi mogu oštetiti vaš čvrsti disk ili ukrasti vaše lične informacije."
+   },
+   "res_3320": {
+      "message": "To preuzimanje je opasno!"
+   },
+   "res_3321": {
+      "message": "Detektovano potencijalno iritantno preuzimanje!"
+   },
+   "res_3322": {
+      "message": "Upozorenje!"
+   },
+   "res_4000": {
+      "message": "Jeste li sigurni da želite odvojiti se od Yahoo-a! Traka sa alatkama? Nećete moći da poništite ovu promenu."
+   },
+   "res_4001": {
+      "message": "Potvrda: Izabrali ste da otkačite (odvojite) traku sa alatkama. Da bi ova promena imala efekat, ponovo pokrenite svoj pregledač."
+   },
+   "res_4100": {
+      "message": "Veb pretraga"
+   },
+   "res_4101": {
+      "message": "Veb pretraga"
+   },
+   "res_4102": {
+      "message": "Bezbedna pretraga"
+   },
+   "res_ABOUT": {
+      "message": "Osnovni podaci"
+   },
+   "res_ABOUT_DESCRIPTION": {
+      "message": "{0} vam pomaže da donosite bolje odluke o svojim aktivnostima na mreži."
+   },
+   "res_AVOID_DANGEROUS_LINKS": {
+      "message": "Izbegavajte opasne veze"
+   },
+   "res_CHROME": {
+      "message": "Chrome"
+   },
+   "res_COMPANY_NAME": {
+      "message": "McAfee"
+   },
+   "res_CREATE_SAFER_PASSWORDS": {
+      "message": "Kreirajte bezbednije lozinke"
+   },
+   "res_CRYPTO_ALLOW_DESC": {
+      "message": "Kada blokiramo kripto otimanje, možete odlučiti da ga dozvolite. To ne preporučujemo, ali imate opciju ako želite da date podršku lokacijama koje zarađuju novac kroz kripto otimanje."
+   },
+   "res_CRYPTO_ALLOW_TITLE": {
+      "message": "Želite da dopustite kripto otimanje?"
+   },
+   "res_CRYPTO_BANNER_ALLOW_BUTTON": {
+      "message": "Dozvolite kripto otimanje na ovoj lokaciji."
+   },
+   "res_CRYPTO_BANNER_LEARN_MORE": {
+      "message": "Saznajte više."
+   },
+   "res_CRYPTO_BANNER_MESSAGE": {
+      "message": "Blokirali smo kripto otimanje na ovoj lokaciji. Resursi vašeg računara su bezbedni i možete nastaviti sa pregledanjem."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE1": {
+      "message": "McAfee i McAfee logotip su registrovani zaštitni znakovi ili zaštitni znakovi kompanije McAfee LLC ili njenih ogranaka u Sjedinjenim Američkim Državama i drugim zemljama."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE2": {
+      "message": "Na druge nazive i brendove pravo mogu polagati druge kompanije. Copyright ©2019 McAfee, LLC"
+   },
+   "res_CRYPTO_HEADER_SUBTITLE": {
+      "message": "Pomoći ćemo u zaustavljanju kripto otimača da kradu snagu i resurse vašeg računara."
+   },
+   "res_CRYPTO_HEADER_TITLE": {
+      "message": "Blokator kripto otimanja je uključen"
+   },
+   "res_CRYPTO_OWN_DESC": {
+      "message": "Ne morate posedovati kripto valutu da biste doživeli kripto otimanje. Kripto otimači pristupaju resursima vašeg računara, ne kripto valuti koju možda posedujete."
+   },
+   "res_CRYPTO_OWN_TITLE": {
+      "message": "Da li morate posedovati kripto valutu da biste postali žrtva kripto otimanja?"
+   },
+   "res_CRYPTO_PROTECT_DESC": {
+      "message": "Držite McAfee WebAdvisor ekstenziju uključenom tako da vam naš Blokator kripto otimanja može pomoći u zaštiti od kripto otimača. Obavestićemo vas kada blokiramo pokušaj kripto otimanja."
+   },
+   "res_CRYPTO_PROTECT_TITLE": {
+      "message": "Kako se možete zaštititi?"
+   },
+   "res_CRYPTO_SIGNS_DESC1": {
+      "message": "Sporo pregledanje"
+   },
+   "res_CRYPTO_SIGNS_DESC2": {
+      "message": "Baterija se troši suviše brzo"
+   },
+   "res_CRYPTO_SIGNS_DESC3": {
+      "message": "Glasan ventilator"
+   },
+   "res_CRYPTO_SIGNS_DESC4": {
+      "message": "Povećanje potrošnje struje"
+   },
+   "res_CRYPTO_SIGNS_TITLE": {
+      "message": "Šta su znaci da ste žrtva kripto otimanja?"
+   },
+   "res_CRYPTO_TITLE": {
+      "message": "McAfee blokator kripto otimanja"
+   },
+   "res_CRYPTO_WHATIS_POINT1": {
+      "message": "Kripto otimači (hakeri) pristupaju vašem računaru kroz veb lokacije u toku pregledanja."
+   },
+   "res_CRYPTO_WHATIS_POINT2": {
+      "message": "Oni kradu snagu vašeg računara (njegov CPU i memoriju) kako bi im pomogla da završe kompleksne zadatke."
+   },
+   "res_CRYPTO_WHATIS_POINT3": {
+      "message": "Oni zarađuju kriptovalutu, što je onlajn novac."
+   },
+   "res_CRYPTO_WHATIS_TITLE": {
+      "message": "Šta je kripto otimanje"
+   },
+   "res_DONE": {
+      "message": "Gotovo"
+   },
+   "res_DONT_TRUST": {
+      "message": "Ne veruj"
+   },
+   "res_DOWNLOADS_BLOCKED": {
+      "message": "{1} nebezbednih preuzimanja je blokirano"
+   },
+   "res_DOWNLOADS_SCANNED": {
+      "message": "{1} preuzimanja je skenirano"
+   },
+   "res_DOWNLOAD_CONFIDENTLY": {
+      "message": "Preuzimajte bezbedno"
+   },
+   "res_FIREFOX": {
+      "message": "Firefox"
+   },
+   "res_GET_HELP_NOW": {
+      "message": "Odmah pronađite pomoć"
+   },
+   "res_GET_TECHNICAL_SUPPORT": {
+      "message": "Pronađite pomoć i tehničku podršku"
+   },
+   "res_HELP": {
+      "message": "Pomoć"
+   },
+   "res_HELP_EMAIL_US": {
+      "message": "Pošaljite nam e-poruku na"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_CONTENT": {
+      "message": "Dešava se i najboljima od nas. Ovi momci su tu da vam pomognu. {0}"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_HEADER": {
+      "message": "POMOĆ! Potrebna mi je tehnička podrška"
+   },
+   "res_HELP_FAQ_SECTION_ONE_CONTENT": {
+      "message": "{0} vam pomaže da donosite bolje odluke o svojim aktivnostima na mreži."
+   },
+   "res_HELP_FAQ_SECTION_ONE_HEADER": {
+      "message": "Šta je {0}?"
+   },
+   "res_HELP_FAQ_SECTION_THREE_HEADER": {
+      "message": "Kako da saznam koju verziju aplikacije {0} imam?"
+   },
+   "res_HELP_FAQ_SECTION_TWO_CONTENT": {
+      "message": "Ili podelite ovu vezu: {0}"
+   },
+   "res_HELP_FAQ_SECTION_TWO_HEADER": {
+      "message": "Kako {0} mogu da podelim sa drugima?"
+   },
+   "res_HELP_FAQ_TITLE": {
+      "message": "Najčešća pitanja"
+   },
+   "res_HELP_SUPPORT_TITLE": {
+      "message": "Podrška"
+   },
+   "res_IE": {
+      "message": "Internet Explorer"
+   },
+   "res_LICENSE_AGREEMENT_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx?culture=sr-latn-cs"
+   },
+   "res_OK": {
+      "message": "U redu"
+   },
+   "res_PAGES_BLOCKED": {
+      "message": "{1} opasnih stranica je blokirano"
+   },
+   "res_PAGES_SCANNED": {
+      "message": "{1} stranica je skenirano"
+   },
+   "res_POPUP_BACK": {
+      "message": "Nazad"
+   },
+   "res_POPUP_CLEAR": {
+      "message": "Obrisati listu"
+   },
+   "res_POPUP_DONE_SO_FAR": {
+      "message": "Evo šta smo do sada uradili:"
+   },
+   "res_POPUP_DONT_WARN_DESCRIPTION": {
+      "message": "Ne želite da vas upozorimo na određenu lokaciju? Dodajte je ovde."
+   },
+   "res_POPUP_ENABLE_WEB_BOOST": {
+      "message": "Omogućiti Web Boost"
+   },
+   "res_POPUP_ENTER_WEB_ADDRESS": {
+      "message": "Upišite veb adresu..."
+   },
+   "res_POPUP_GET_HELP": {
+      "message": "Pronađite pomoć"
+   },
+   "res_POPUP_GET_HELP_URL": {
+      "message": "https://service.mcafee.com/webcenter/portal/cp/home"
+   },
+   "res_POPUP_GET_WEB_BOOST": {
+      "message": "Nabavite Web Boost"
+   },
+   "res_POPUP_ITEMS_BLOCKED": {
+      "message": "Blokirane nebezbedne stavke"
+   },
+   "res_POPUP_PAGES_BLOCKED": {
+      "message": "Blokirane opasne stranice"
+   },
+   "res_POPUP_PAGES_SCANNED": {
+      "message": "Skenirane stranice"
+   },
+   "res_POPUP_PURPOSE_DESCRIPTION": {
+      "message": "Ovde smo da vam pomognemo da budete bezbedni na mreži."
+   },
+   "res_POPUP_START_FRESH": {
+      "message": "Želite da počnete od početka?"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS": {
+      "message": "Odredbe i uslovi"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx"
+   },
+   "res_POPUP_VIEW_SITE_REPORT": {
+      "message": "Prikaži izveštaj o lokaciji"
+   },
+   "res_PRIVACY_NOTICE": {
+      "message": "Obaveštenje o privatnosti"
+   },
+   "res_PRIVACY_URL": {
+      "message": "http://www.mcafee.com/common/privacy/consumer/serbian/"
+   },
+   "res_PRODUCT_NAME": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_PRODUCT_NAME_LIVE": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_PRODUCT_NAME_TRADEMARKED": {
+      "message": "McAfee® WebAdvisor"
+   },
+   "res_READ_PRIVACY_NOTICE": {
+      "message": "Pročitajte obaveštenje o privatnosti"
+   },
+   "res_RESET": {
+      "message": "Resetuj"
+   },
+   "res_SETTINGS": {
+      "message": "Podešavanja"
+   },
+   "res_SETTINGS_DEFAULT_TRUSTED_TEXT": {
+      "message": "Nalepite ili unesite URL adresu"
+   },
+   "res_SETTINGS_MANAGE_TRUSTED": {
+      "message": "Upravljajte pouzdanim lokacijama"
+   },
+   "res_SETTINGS_RESET_CAPTION": {
+      "message": "Resetuj {0}"
+   },
+   "res_SETTINGS_RESET_DESCRIPTION": {
+      "message": "Da li ste zanemarili obaveštenje i želite ponovo da ga pogledate? Ne brinite – nakon resetovanja, sva obaveštenja će ponovo biti prikazana u pregledaču kao prvi put kada ste ih videli."
+   },
+   "res_SETTINGS_RESET_HEADER": {
+      "message": "Resetuj postavke"
+   },
+   "res_SETTINGS_SS_CAPTION": {
+      "message": "Bezbedno pregledajte Veb"
+   },
+   "res_SETTINGS_SS_HEADER": {
+      "message": "Rezultati pretrage"
+   },
+   "res_SETTINGS_SS_OPTION_ALL": {
+      "message": "Obavesti me u svakom pretraživaču da li je rezultat pretrage bezbedan"
+   },
+   "res_SETTINGS_SS_OPTION_NONE": {
+      "message": "Ne obaveštavaj me o rezultatima pretrage"
+   },
+   "res_SETTINGS_SS_OPTION_SS": {
+      "message": "Obavesti me samo u Bezbednoj pretrazi da li je rezultat pretrage bezbedan"
+   },
+   "res_SETTINGS_TRUSTED_SITES": {
+      "message": "Lokacije kojima verujete"
+   },
+   "res_STAT_HEADER": {
+      "message": "Evo samo nekoliko stvari koje smo do sada uradili:"
+   },
+   "res_TAKE_PRIVACY_SERIOUSLY": {
+      "message": "{0} ozbiljno shvata vašu privatnost. Pročitajte {1}."
+   },
+   "res_TRUST_SITE": {
+      "message": "Lokacija od poverenja"
+   },
+   "res_VERSION": {
+      "message": "Verzija"
+   },
+   "res_WEBADVISOR": {
+      "message": "WebAdvisor"
+   },
+   "res_YOUR_PROTECTED": {
+      "message": "Zaštitili smo vašu lozinku i vas od krađe identiteta"
+   },
+   "res_menuid1": {
+      "message": "Test"
+   }
+}

@@ -1,0 +1,827 @@
+{
+   "res_100": {
+      "message": "sk_SK"
+   },
+   "res_1000": {
+      "message": "http://www.siteadvisor.com/restricted.html?domain=%s&originalURL=%s"
+   },
+   "res_1001": {
+      "message": "http://www.siteadvisor.com/phishing.html?domain=%s&originalURL=%s"
+   },
+   "res_101": {
+      "message": "sk-sk"
+   },
+   "res_102": {
+      "message": "sk-sk"
+   },
+   "res_11010": {
+      "message": "Zabezpečené vyhľadávanie"
+   },
+   "res_1102": {
+      "message": "http://www.siteadvisor.com/support/index.html"
+   },
+   "res_1107": {
+      "message": "https://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1110": {
+      "message": "http://home.mcafee.com/Store/PackageDetail.aspx?pkgid=284&culture=%s"
+   },
+   "res_1116": {
+      "message": "http://www.ebates.com/mcafee/index.htm"
+   },
+   "res_113": {
+      "message": "Zobraziť správu o lokalite"
+   },
+   "res_114": {
+      "message": "Možnosti"
+   },
+   "res_120": {
+      "message": "Pomocník"
+   },
+   "res_12001": {
+      "message": "Umenie, kultúra a dedičstvo"
+   },
+   "res_12002": {
+      "message": "Alkohol"
+   },
+   "res_12003": {
+      "message": "Anonymizačné stránky"
+   },
+   "res_12004": {
+      "message": "Anonymizačné pomôcky"
+   },
+   "res_12005": {
+      "message": "Obchod"
+   },
+   "res_12006": {
+      "message": "Chat"
+   },
+   "res_12007": {
+      "message": "Verejné informácie"
+   },
+   "res_12008": {
+      "message": "Potenciálna trestná činnosť"
+   },
+   "res_12009": {
+      "message": "Drogy"
+   },
+   "res_12010": {
+      "message": "Vzdelanie a referencie"
+   },
+   "res_12011": {
+      "message": "Zábava"
+   },
+   "res_12012": {
+      "message": "Extrémy"
+   },
+   "res_12013": {
+      "message": "Financie a bankovníctvo"
+   },
+   "res_12014": {
+      "message": "Stávky a hazardné hry"
+   },
+   "res_12015": {
+      "message": "Hry"
+   },
+   "res_12016": {
+      "message": "Vláda a armáda"
+   },
+   "res_12017": {
+      "message": "Potenciálne hackerstvo a počítačový zločin"
+   },
+   "res_12018": {
+      "message": "Zdravie"
+   },
+   "res_12019": {
+      "message": "Humor a komika"
+   },
+   "res_12020": {
+      "message": "Diskriminácia"
+   },
+   "res_12021": {
+      "message": "Odosielanie okamžitých správ"
+   },
+   "res_12022": {
+      "message": "Obchodovanie na burze"
+   },
+   "res_12023": {
+      "message": "Internetové rádio a televízia"
+   },
+   "res_12024": {
+      "message": "Hľadanie zamestnania"
+   },
+   "res_12025": {
+      "message": "Zabezpečenie informácií"
+   },
+   "res_12026": {
+      "message": "Zoznamovacie služby a sociálne siete"
+   },
+   "res_12027": {
+      "message": "Mobilný telefón"
+   },
+   "res_12028": {
+      "message": "Sťahovanie mediálnych súborov"
+   },
+   "res_12029": {
+      "message": "Škodlivé lokality"
+   },
+   "res_12031": {
+      "message": "Nahota"
+   },
+   "res_12032": {
+      "message": "Neziskové organizácie, organizácie presadzujúce záujmy a mimovládne organizácie"
+   },
+   "res_12033": {
+      "message": "Všeobecné spravodajstvo"
+   },
+   "res_12034": {
+      "message": "Nakupovanie online"
+   },
+   "res_12035": {
+      "message": "Provokatívne oblečenie"
+   },
+   "res_12036": {
+      "message": "P2P a zdieľanie súborov"
+   },
+   "res_12037": {
+      "message": "Politika a názory"
+   },
+   "res_12038": {
+      "message": "Osobné stránky"
+   },
+   "res_12039": {
+      "message": "Portálové lokality"
+   },
+   "res_12040": {
+      "message": "Vzdialený prístup"
+   },
+   "res_12041": {
+      "message": "Náboženstvo a ideológia"
+   },
+   "res_12042": {
+      "message": "Zdieľanie zdrojov"
+   },
+   "res_12043": {
+      "message": "Vyhľadávacie nástroje"
+   },
+   "res_12044": {
+      "message": "Šport"
+   },
+   "res_12045": {
+      "message": "Streamovanie médií"
+   },
+   "res_12046": {
+      "message": "Shareware a freeware"
+   },
+   "res_12047": {
+      "message": "Pornografia"
+   },
+   "res_12048": {
+      "message": "Spyware, adware a programy na zaznamenávanie stlačení klávesov"
+   },
+   "res_12049": {
+      "message": "Tabakové výrobky"
+   },
+   "res_12050": {
+      "message": "Cestovanie"
+   },
+   "res_12051": {
+      "message": "Násilie"
+   },
+   "res_12052": {
+      "message": "Webová reklama"
+   },
+   "res_12053": {
+      "message": "Zbrane"
+   },
+   "res_12054": {
+      "message": "Webové e-mailové služby"
+   },
+   "res_12055": {
+      "message": "Webový telefón"
+   },
+   "res_12056": {
+      "message": "Aukcie a inzeráty"
+   },
+   "res_12057": {
+      "message": "Fóra a vývesky"
+   },
+   "res_12058": {
+      "message": "Vulgárny obsah"
+   },
+   "res_12059": {
+      "message": "Informácie o podvádzaní v škole"
+   },
+   "res_12060": {
+      "message": "Sexuálne materiály"
+   },
+   "res_12061": {
+      "message": "Šokujúci obsah"
+   },
+   "res_12062": {
+      "message": "Vizuálny vyhľadávací nástroj"
+   },
+   "res_12063": {
+      "message": "Technické a obchodné fóra"
+   },
+   "res_12064": {
+      "message": "Stránky o stávkach a hazardných hrách"
+   },
+   "res_12065": {
+      "message": "Odosielanie správ"
+   },
+   "res_12066": {
+      "message": "Násilie v hrách a kreslených filmoch"
+   },
+   "res_12067": {
+      "message": "Neoprávnené získavanie údajov"
+   },
+   "res_12068": {
+      "message": "Osobné sieťové úložisko"
+   },
+   "res_12069": {
+      "message": "Adresy URL v nevyžiadanej pošte"
+   },
+   "res_12070": {
+      "message": "Interaktívne webové aplikácie"
+   },
+   "res_12071": {
+      "message": "Móda a krása"
+   },
+   "res_12072": {
+      "message": "Softvér a hardvér"
+   },
+   "res_12073": {
+      "message": "Potenciálne nezákonný softvér"
+   },
+   "res_12074": {
+      "message": "Server s obsahom"
+   },
+   "res_12075": {
+      "message": "Internetové služby"
+   },
+   "res_12076": {
+      "message": "Zdieľanie mediálnych súborov"
+   },
+   "res_12077": {
+      "message": "Náhodná nahota"
+   },
+   "res_12078": {
+      "message": "Marketing a predaj"
+   },
+   "res_12079": {
+      "message": "Zaparkovaná doména"
+   },
+   "res_12080": {
+      "message": "Lieky a lekárne"
+   },
+   "res_12081": {
+      "message": "Reštaurácie"
+   },
+   "res_12082": {
+      "message": "Nehnuteľnosti"
+   },
+   "res_12083": {
+      "message": "Odpočinok a záujmy"
+   },
+   "res_12084": {
+      "message": "Blogy a Wiki"
+   },
+   "res_12085": {
+      "message": "Digitálne pohľadnice"
+   },
+   "res_12086": {
+      "message": "Historický revizionizmus"
+   },
+   "res_12087": {
+      "message": "Technické informácie"
+   },
+   "res_12088": {
+      "message": "Zoznamovacie služby a osobné profily"
+   },
+   "res_12089": {
+      "message": "Motorové vozidlá"
+   },
+   "res_12090": {
+      "message": "Profesionálne sociálne siete"
+   },
+   "res_12091": {
+      "message": "Sociálne siete"
+   },
+   "res_12092": {
+      "message": "Prekladače textu"
+   },
+   "res_12093": {
+      "message": "Webové schôdze"
+   },
+   "res_12094": {
+      "message": "Pre deti"
+   },
+   "res_12095": {
+      "message": "História"
+   },
+   "res_12096": {
+      "message": "Moderované služby"
+   },
+   "res_12097": {
+      "message": "Iba text alebo hovorené slovo"
+   },
+   "res_12098": {
+      "message": "Zneužitie prehliadača"
+   },
+   "res_12099": {
+      "message": "Ochrana spotrebiteľov"
+   },
+   "res_121": {
+      "message": "Informácie"
+   },
+   "res_12100": {
+      "message": "Kontroverzné názory"
+   },
+   "res_12101": {
+      "message": "Obsah nezákonný v Spojenom kráľovstve"
+   },
+   "res_12102": {
+      "message": "Hlavné globálne oblasti"
+   },
+   "res_12103": {
+      "message": "Sťahovanie škodlivých súborov"
+   },
+   "res_12104": {
+      "message": "Programy PUP"
+   },
+   "res_12105": {
+      "message": "Domáce adresy IP"
+   },
+   "res_122": {
+      "message": "Zobraziť možnosť vrátenia peňazí na tejto lokalite"
+   },
+   "res_123": {
+      "message": "Prejsť na odmeny za bezpečné nakupovanie"
+   },
+   "res_125": {
+      "message": "Inovovať na [%SITEADVISORPLUS%]"
+   },
+   "res_127": {
+      "message": "Zaregistrovať sa"
+   },
+   "res_129": {
+      "message": "Zrušte ukotvenie zo stránky Yahoo. Panel s nástrojmi"
+   },
+   "res_133": {
+      "message": "Synchronizácia predplatného"
+   },
+   "res_140": {
+      "message": "Inovujte na software [%SITEADVISORPLUS%]"
+   },
+   "res_141": {
+      "message": "Kúpiť"
+   },
+   "res_14100": {
+      "message": "Obchod, práca a financie"
+   },
+   "res_14101": {
+      "message": "Alkohol, tabakové výrobky a drogy"
+   },
+   "res_14102": {
+      "message": "Zábava a kultúra"
+   },
+   "res_14103": {
+      "message": "Hranie hier"
+   },
+   "res_14104": {
+      "message": "Informačné technológie"
+   },
+   "res_14105": {
+      "message": "Vyhľadávanie, editoriál a komunikácia"
+   },
+   "res_14106": {
+      "message": "Životný štýl"
+   },
+   "res_14107": {
+      "message": "Obsah vhodný pre dospelých divákov"
+   },
+   "res_14108": {
+      "message": "Obsah vhodný pre dospelých divákov"
+   },
+   "res_14109": {
+      "message": "Nakupovanie a elektronický obchod"
+   },
+   "res_14110": {
+      "message": "Riskantné"
+   },
+   "res_14111": {
+      "message": "Spravodajstvo a názory"
+   },
+   "res_166": {
+      "message": "Prečítajte si správu o lokalite"
+   },
+   "res_170": {
+      "message": "Verzia"
+   },
+   "res_171": {
+      "message": "Jazyk"
+   },
+   "res_172": {
+      "message": "Zostava"
+   },
+   "res_173": {
+      "message": "Posledná aktualizácia"
+   },
+   "res_20008": {
+      "message": "Toto prepojenie nie je ohodnotené"
+   },
+   "res_20009": {
+      "message": "Toto prepojenie je podozrivé"
+   },
+   "res_20010": {
+      "message": "Toto prepojenie je bezpečné"
+   },
+   "res_20017": {
+      "message": "Upozornenie aplikácie [%SITEADVISOR%] spoločnosti [%COMPANY%]"
+   },
+   "res_20018": {
+      "message": "Tento e-mail obsahuje potenciálne nebezpečné prepojenia na nasledovné lokality:"
+   },
+   "res_20022": {
+      "message": "Ďalšie informácie"
+   },
+   "res_20028": {
+      "message": "Prepojenie bolo automaticky zablokované na základe nastavení zabezpečeného vyhľadávania aplikácie [%SITEADVISOR%] spoločnosti [%COMPANY%]"
+   },
+   "res_20029": {
+      "message": "Obsah lokality:"
+   },
+   "res_20031": {
+      "message": "Každodenné testovanie"
+   },
+   "res_20033": {
+      "message": "Toto prepojenie je nebezpečné"
+   },
+   "res_20034": {
+      "message": "Možnosť vrátenia peňazí môže byť na tejto lokalite McAfee SECURE nedostupná. Viac informácií sa dozviete na lokalite."
+   },
+   "res_20040": {
+      "message": "Túto lokalitu sme otestovali a vyhodnotili ako rizikovú."
+   },
+   "res_20041": {
+      "message": "Túto stránku sme otestovali a zablokovali obsah, ktorý pochádza z potenciálne nebezpečných alebo podozrivých lokalít. Tento obsah povoľte len v prípade, že dôverujete webovej lokalite, z ktorej pochádza."
+   },
+   "res_20042": {
+      "message": "Zobraziť celý blokovaný obsah"
+   },
+   "res_20043": {
+      "message": "Upozornenie: nebezpečná lokalita"
+   },
+   "res_207": {
+      "message": "McAfee"
+   },
+   "res_208": {
+      "message": "SiteAdvisor"
+   },
+   "res_209": {
+      "message": "LIVE"
+   },
+   "res_212": {
+      "message": "SiteAdvisor LIVE"
+   },
+   "res_213": {
+      "message": "SiteAdvisor\u003Csup style='font-size:90%'>&reg;\u003C/sup>&nbsp;LIVE"
+   },
+   "res_30006": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_30007": {
+      "message": "Zobraziť správu o lokalite"
+   },
+   "res_30009": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_30010": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_30011": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_3302": {
+      "message": "Sťahujete z webovej lokality, ktorá môže obsahovať potenciálne nežiaduce programy. Spoločnosť [%COMPANY%] v predchádzajúcich testoch zistila potenciálne nebezpečenstvo v sťahovaných súboroch z tejto lokality."
+   },
+   "res_3305": {
+      "message": "Spoločnosť [%COMPANY%] zistila, že súbor, ktorý chcete stiahnuť, môže obsahovať vírusy, spyware alebo iné potenciálne nežiaduce programy. Tieto škodlivé programy vám môžu poškodiť počítač a odcudziť osobné údaje."
+   },
+   "res_3306": {
+      "message": "Spoločnosť [%COMPANY%] zistila, že sťahované súbory môžu obsahovať vírusy, spyware a iné potenciálne nežiaduce programy. Tieto programy vám môžu poškodiť pevný disk alebo odcudziť osobné údaje."
+   },
+   "res_3320": {
+      "message": "Sťahovaný súbor je nebezpečný!"
+   },
+   "res_3321": {
+      "message": "Zistenie potenciálne nežiaducich sťahovaných súborov"
+   },
+   "res_3322": {
+      "message": "Upozornenie"
+   },
+   "res_4000": {
+      "message": "Určite chcete zrušiť ukotvenie na stránke Yahoo? Panel s nástrojmi? Zmenu nebude možné zrušiť."
+   },
+   "res_4001": {
+      "message": "Potvrdenie: Rozhodli ste sa zrušiť ukotvenie panela s nástrojmi (oddeliť ho). Ak chcete zmenu dokončiť, reštartujte prehliadač."
+   },
+   "res_4100": {
+      "message": "Webové vyhľadávanie"
+   },
+   "res_4101": {
+      "message": "Webové vyhľadávanie"
+   },
+   "res_4102": {
+      "message": "Zabezpečené vyhľadávanie"
+   },
+   "res_ABOUT": {
+      "message": "Informácie"
+   },
+   "res_ABOUT_DESCRIPTION": {
+      "message": "Aplikácia {0} vám pomôže lepšie sa rozhodovať o tom, čo robíte online."
+   },
+   "res_AVOID_DANGEROUS_LINKS": {
+      "message": "Ochrana pred nebezpečnými prepojeniami"
+   },
+   "res_CHROME": {
+      "message": "Chrome"
+   },
+   "res_COMPANY_NAME": {
+      "message": "McAfee"
+   },
+   "res_CREATE_SAFER_PASSWORDS": {
+      "message": "Vytvárajte bezpečnejšie heslá"
+   },
+   "res_CRYPTO_ALLOW_DESC": {
+      "message": "Po zablokovaní ťažby kryptomien môžete ťažbu povoliť. Povolenie ťažby neodporúčame, ale je to možné, ak chcete podporovať webové lokality, ktoré získavajú finančné prostriedky prostredníctvom ťažby kryptomien."
+   },
+   "res_CRYPTO_ALLOW_TITLE": {
+      "message": "Chcete povoliť ťažbu kryptomien?"
+   },
+   "res_CRYPTO_BANNER_ALLOW_BUTTON": {
+      "message": "Povoliť ťažbu kryptomien na tejto lokalite"
+   },
+   "res_CRYPTO_BANNER_LEARN_MORE": {
+      "message": "Ďalšie informácie"
+   },
+   "res_CRYPTO_BANNER_MESSAGE": {
+      "message": "Na tejto lokalite sme zablokovali ťažbu kryptomien. Zdroje vášho počítača sú zabezpečené a môžete pokračovať v prehľadávaní."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE1": {
+      "message": "McAfee a logo McAfee sú ochranné známky alebo registrované ochranné známky spoločnosti McAfee, LLC alebo jej pobočiek v USA a v iných krajinách."
+   },
+   "res_CRYPTO_FOOTER_MESSAGE2": {
+      "message": "Ostatné názvy a značky sa môžu vyhlásiť za vlastníctvo iných spoločností. Copyright ©2019 McAfee, LLC"
+   },
+   "res_CRYPTO_HEADER_SUBTITLE": {
+      "message": "Pomôžeme vám zabrániť využívaniu výkonu a zdrojov vášho počítača na ťažbu kryptomien."
+   },
+   "res_CRYPTO_HEADER_TITLE": {
+      "message": "Blokovanie ťažby kryptomien je zapnuté"
+   },
+   "res_CRYPTO_OWN_DESC": {
+      "message": "Ťažba kryptomeny môže ohroziť váš počítač aj v prípade, že kryptomenu nevlastníte. Hackeri, ktorí ťažia kryptomeny získajú prístup k zdrojom vo vašom počítači, nie ku kryptomene."
+   },
+   "res_CRYPTO_OWN_TITLE": {
+      "message": "Môže ťažba kryptomeny ohroziť môj počítač, aj keď nevlastním kryptomenu?"
+   },
+   "res_CRYPTO_PROTECT_DESC": {
+      "message": "Aktivujte si rozšírenie McAfee WebAdvisor, aby vás blokovanie ťažby kryptomien chránilo pred týmito hackermi. O pokuse o zablokovanie ťažby kryptomien vás budeme informovať."
+   },
+   "res_CRYPTO_PROTECT_TITLE": {
+      "message": "Ako sa môžem chrániť?"
+   },
+   "res_CRYPTO_SIGNS_DESC1": {
+      "message": "Spomalené prehľadávanie"
+   },
+   "res_CRYPTO_SIGNS_DESC2": {
+      "message": "Príliš rýchle vybíjanie batérie"
+   },
+   "res_CRYPTO_SIGNS_DESC3": {
+      "message": "Hlasný ventilátor"
+   },
+   "res_CRYPTO_SIGNS_DESC4": {
+      "message": "Zvýšená spotreba elektriny"
+   },
+   "res_CRYPTO_SIGNS_TITLE": {
+      "message": "Ako sa prejavuje ťažba kryptomien?"
+   },
+   "res_CRYPTO_TITLE": {
+      "message": "Blokovanie ťažby kryptomien McAfee"
+   },
+   "res_CRYPTO_WHATIS_POINT1": {
+      "message": "Pri ťažbe kryptomien hackeri získajú prístup do vášho počítača prostredníctvom prehliadaných webových lokalít."
+   },
+   "res_CRYPTO_WHATIS_POINT2": {
+      "message": "Využívajú výkon vášho počítača (jeho procesor a pamäť), aby mohli dokončiť zložité úlohy."
+   },
+   "res_CRYPTO_WHATIS_POINT3": {
+      "message": "Získavajú kryptomenu, ktorá predstavuje online finančné prostriedky."
+   },
+   "res_CRYPTO_WHATIS_TITLE": {
+      "message": "Čo znamená ťažba kryptomien"
+   },
+   "res_DONE": {
+      "message": "Hotovo"
+   },
+   "res_DONT_TRUST": {
+      "message": "Nedôverovať"
+   },
+   "res_DOWNLOADS_BLOCKED": {
+      "message": "Zablokované nebezpečné sťahované súbory: {1}"
+   },
+   "res_DOWNLOADS_SCANNED": {
+      "message": "Skontrolované sťahované súbory: {1}"
+   },
+   "res_DOWNLOAD_CONFIDENTLY": {
+      "message": "Sťahovať dôveryhodné súbory"
+   },
+   "res_FIREFOX": {
+      "message": "Firefox"
+   },
+   "res_GET_HELP_NOW": {
+      "message": "Získať pomoc"
+   },
+   "res_GET_TECHNICAL_SUPPORT": {
+      "message": "Získať pomoc a technickú podporu"
+   },
+   "res_HELP": {
+      "message": "Pomocník"
+   },
+   "res_HELP_EMAIL_US": {
+      "message": "Pošlite nám e-mail na adresu"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_CONTENT": {
+      "message": "Stáva sa to aj tým najlepším. Títo ľudia vám pomôžu. {0}"
+   },
+   "res_HELP_FAQ_SECTION_FOUR_HEADER": {
+      "message": "POMOCNÍK Potrebujem technickú podporu"
+   },
+   "res_HELP_FAQ_SECTION_ONE_CONTENT": {
+      "message": "Aplikácia {0} vám pomôže lepšie sa rozhodovať o tom, čo robíte online."
+   },
+   "res_HELP_FAQ_SECTION_ONE_HEADER": {
+      "message": "Čo je {0}?"
+   },
+   "res_HELP_FAQ_SECTION_THREE_HEADER": {
+      "message": "Ako zistím verziu svojej aplikácie {0}?"
+   },
+   "res_HELP_FAQ_SECTION_TWO_CONTENT": {
+      "message": "Prípadne zdieľajte toto prepojenie: {0}"
+   },
+   "res_HELP_FAQ_SECTION_TWO_HEADER": {
+      "message": "Ako môžem zdieľať aplikáciu {0} s ostatnými?"
+   },
+   "res_HELP_FAQ_TITLE": {
+      "message": "Najčastejšie otázky"
+   },
+   "res_HELP_SUPPORT_TITLE": {
+      "message": "Podpora"
+   },
+   "res_IE": {
+      "message": "Internet Explorer"
+   },
+   "res_LICENSE_AGREEMENT_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx?culture=en"
+   },
+   "res_OK": {
+      "message": "OK"
+   },
+   "res_PAGES_BLOCKED": {
+      "message": "Zablokované nebezpečné stránky: {1}"
+   },
+   "res_PAGES_SCANNED": {
+      "message": "Skontrolované stránky: {1}"
+   },
+   "res_POPUP_BACK": {
+      "message": "Späť"
+   },
+   "res_POPUP_CLEAR": {
+      "message": "Vymazať zoznam"
+   },
+   "res_POPUP_DONE_SO_FAR": {
+      "message": "Zatiaľ sme urobili tieto veci:"
+   },
+   "res_POPUP_DONT_WARN_DESCRIPTION": {
+      "message": "Nechcete, aby sme vás upozornili na konkrétnu stránku? Pridajte ju sem."
+   },
+   "res_POPUP_ENABLE_WEB_BOOST": {
+      "message": "Zapnúť Web Boost"
+   },
+   "res_POPUP_ENTER_WEB_ADDRESS": {
+      "message": "Zadajte webovú adresu."
+   },
+   "res_POPUP_GET_HELP": {
+      "message": "Získať pomoc"
+   },
+   "res_POPUP_GET_HELP_URL": {
+      "message": "https://service.mcafee.com/webcenter/portal/cp/home"
+   },
+   "res_POPUP_GET_WEB_BOOST": {
+      "message": "Získať Web Boost"
+   },
+   "res_POPUP_ITEMS_BLOCKED": {
+      "message": "Zablokovanie nebezpečných položiek"
+   },
+   "res_POPUP_PAGES_BLOCKED": {
+      "message": "Zablokovanie nebezpečných stránok"
+   },
+   "res_POPUP_PAGES_SCANNED": {
+      "message": "Skontrolované stránky"
+   },
+   "res_POPUP_PURPOSE_DESCRIPTION": {
+      "message": "Našou úlohou je zabezpečiť vašu online bezpečnosť."
+   },
+   "res_POPUP_START_FRESH": {
+      "message": "Chcete začať odznova?"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS": {
+      "message": "Podmienky"
+   },
+   "res_POPUP_TERMS_AND_CONDITIONS_URL": {
+      "message": "https://home.mcafee.com/supportpages/eula.aspx"
+   },
+   "res_POPUP_VIEW_SITE_REPORT": {
+      "message": "Zobraziť správu o lokalite"
+   },
+   "res_PRIVACY_NOTICE": {
+      "message": "Vyhlásenie o používaní osobných údajov"
+   },
+   "res_PRIVACY_URL": {
+      "message": "http://www.mcafee.com/common/privacy/consumer/slovakian/"
+   },
+   "res_PRODUCT_NAME": {
+      "message": "McAfee WebAdvisor"
+   },
+   "res_PRODUCT_NAME_LIVE": {
+      "message": "McAfee WebAdvisor Live"
+   },
+   "res_PRODUCT_NAME_TRADEMARKED": {
+      "message": "McAfee® WebAdvisor"
+   },
+   "res_READ_PRIVACY_NOTICE": {
+      "message": "Prečítajte si vyhlásenie o používaní osobných údajov"
+   },
+   "res_RESET": {
+      "message": "Obnoviť"
+   },
+   "res_SETTINGS": {
+      "message": "Nastavenia"
+   },
+   "res_SETTINGS_DEFAULT_TRUSTED_TEXT": {
+      "message": "Prilepiť alebo zadať adresu URL"
+   },
+   "res_SETTINGS_MANAGE_TRUSTED": {
+      "message": "Spravovanie dôveryhodných lokalít"
+   },
+   "res_SETTINGS_RESET_CAPTION": {
+      "message": "Obnovenie pôvodných nastavení aplikácie {0}"
+   },
+   "res_SETTINGS_RESET_DESCRIPTION": {
+      "message": "Prehliadli ste oznámenie a chcete ho znova zobraziť? Nebojte sa, po obnovení pôvodných nastavení sa v prehliadači opäť zobrazia všetky pôvodné oznámenia."
+   },
+   "res_SETTINGS_RESET_HEADER": {
+      "message": "Obnovenie pôvodných nastavení"
+   },
+   "res_SETTINGS_SS_CAPTION": {
+      "message": "Bezpečné prehľadávanie webu"
+   },
+   "res_SETTINGS_SS_HEADER": {
+      "message": "Výsledky vyhľadávania"
+   },
+   "res_SETTINGS_SS_OPTION_ALL": {
+      "message": "Chcem informácie o bezpečnosti výsledku vyhľadávania vo všetkých vyhľadávacích nástrojoch"
+   },
+   "res_SETTINGS_SS_OPTION_NONE": {
+      "message": "Nechcem informácie o výsledkoch vyhľadávania"
+   },
+   "res_SETTINGS_SS_OPTION_SS": {
+      "message": "Chcem informácie o bezpečnosti výsledku vyhľadávania len v prípade zabezpečeného vyhľadávania"
+   },
+   "res_SETTINGS_TRUSTED_SITES": {
+      "message": "Dôveryhodné lokality"
+   },
+   "res_STAT_HEADER": {
+      "message": "Tu sú niektoré z vecí, ktoré sme doteraz urobili:"
+   },
+   "res_TAKE_PRIVACY_SERIOUSLY": {
+      "message": "Spoločnosť {0} berie ochranu vašich osobných údajov vážne. Prečítajte si {1}."
+   },
+   "res_TRUST_SITE": {
+      "message": "Dôverovať lokalite"
+   },
+   "res_VERSION": {
+      "message": "Verzia"
+   },
+   "res_WEBADVISOR": {
+      "message": "WebAdvisor"
+   },
+   "res_YOUR_PROTECTED": {
+      "message": "Zabezpečili sme vaše heslo a ochránili sme vás pred krádežou identity"
+   },
+   "res_menuid1": {
+      "message": "Test"
+   }
+}
